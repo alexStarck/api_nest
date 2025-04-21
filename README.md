@@ -49,7 +49,9 @@ $ pnpm run start:prod
 ```txt
 Разработан api
 Авторизация jwt
-
+Под капотом fastify
+Подключение к PG через orm TypeOrm
+Кеширование черезт Redis
 Механизм кеширования cache-aside
 
 
